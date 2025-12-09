@@ -164,7 +164,7 @@ function Jose_room() {
 
   // Redirect to JOSE'S room with current inventory
   // CHECK THAT THIS LINK IS WORKING
-  window.location.replace(`https://dftfhh.csb.app/?inv=${currentInv}`);
+  window.location.replace(`https://stitchg.github.io/Semi_FInal_Wepsite/?inv=${currentInv}`);
 }
 
 function Final_room() {
@@ -410,3 +410,4 @@ window.addEventListener("load", () => {
     closeBtn.style.pointerEvents = "auto";
   }, 12800); // 12.8 seconds
 });
+
