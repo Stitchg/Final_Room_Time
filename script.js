@@ -117,7 +117,7 @@ function Kai_room() {
 
   // Redirect to KAI's room with current inventory
   // CHECK THAT THIS LINK IS WORKING
-  window.location.replace(`https://zg4fm5.csb.app/?inv=${currentInv}`);
+  window.location.replace(`https://toxicshark69.github.io/samurairoom/?inv=${currentInv}`);
 }
 
 function ben_room() {
@@ -149,7 +149,7 @@ function Orion_room() {
 
   // Redirect to ORION'S room with current inventory
   // CHECK THAT THIS LINK IS WORKING
-  window.location.replace(`https://4tr37w.csb.app/?inv=${currentInv}`);
+  window.location.replace(`https://nitrozeus9.github.io/final-escape/?inv=${currentInv}`);
 }
 
 function Jose_room() {
@@ -410,4 +410,5 @@ window.addEventListener("load", () => {
     closeBtn.style.pointerEvents = "auto";
   }, 12800); // 12.8 seconds
 });
+
 
