@@ -168,7 +168,7 @@ function Jose_room() {
 }
 
 function Final_room() {
-  window.location.replace("https://nkrp9p.csb.app/");
+  window.location.replace("https://bentheboss-2000.github.io/Final_Room/");
 }
 
 // --- MODAL SHOW/HIDE ---
@@ -410,6 +410,7 @@ window.addEventListener("load", () => {
     closeBtn.style.pointerEvents = "auto";
   }, 12800); // 12.8 seconds
 });
+
 
 
 
