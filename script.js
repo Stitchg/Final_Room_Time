@@ -133,7 +133,7 @@ function ben_room() {
 
   // Redirect to BEN'S room with current inventory
   // CHECK THAT THIS LINK IS WORKING
-  window.location.replace(`https://6zfk4k.csb.app/?inv=${currentInv}`);
+  window.location.replace(`https://bentheboss-2000.github.io/Aztec_room/?inv=${currentInv}`);
 }
 
 function Orion_room() {
@@ -410,5 +410,6 @@ window.addEventListener("load", () => {
     closeBtn.style.pointerEvents = "auto";
   }, 12800); // 12.8 seconds
 });
+
 
 
